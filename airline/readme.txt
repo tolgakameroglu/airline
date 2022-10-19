@@ -1,2 +1,3 @@
-deneme
-readme denene
+1-
+2-
+3-
