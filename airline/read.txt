@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-deneme local
-=======
 deneme github
->>>>>>> 9ac421445f8c977ac4a1c7223a9ec6e33ef65f9d
+
